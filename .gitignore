@@ -1,3 +1,5 @@
 blackenv
+venv
 .idea
 pycache__/
+notebooks/.ipynb_checkpoints
